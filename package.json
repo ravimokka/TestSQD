@@ -46,11 +46,10 @@
     "toggle": "^1.0.1",
     "viser-react": "^2.4.6"
   },
-  "homepage": "https://github.com/ravimokka/NSQD.git",
+ "homepage": "https://github.com/ravimokka/TestSQD.git",
   "scripts": {
-
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
